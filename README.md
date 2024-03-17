@@ -1,4 +1,8 @@
+## M.Harini
+## 212222240035
+
 # EXNO2DS
+
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -22,16 +26,17 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
-## CODING AND OUTPUT
-![Screenshot 2024-03-15 094409](https://github.com/Vanitha-SM/EXNO2DS/assets/119557985/d068afbe-1818-483d-b7f5-4d6f3fde42c8)
+## CODING AND OUTPUT: 
 
-![Screenshot 2024-03-15 094457](https://github.com/Vanitha-SM/EXNO2DS/assets/119557985/5cd24cf1-5ebe-4037-99f9-634c1d15ceac)
+![image](https://github.com/Harinimuthu17/EXNO2DS/assets/130278614/f7b585bc-68e6-4db1-8eaf-f20abf38efdd)
 
-![Screenshot 2024-03-15 094625](https://github.com/Vanitha-SM/EXNO2DS/assets/119557985/aeb29c85-fb55-4ddc-a4d3-1062e43d44c0)
+![image](https://github.com/Harinimuthu17/EXNO2DS/assets/130278614/f352f337-0f2c-490b-b5c6-d70057a57fa8)
 
-![Screenshot 2024-03-15 094708](https://github.com/Vanitha-SM/EXNO2DS/assets/119557985/0851cc7a-aa10-450d-a7a3-703de236c564)
+![image](https://github.com/Harinimuthu17/EXNO2DS/assets/130278614/d8254df4-4840-471c-a676-bb0acc38454c)
 
-![Screenshot 2024-03-15 095023](https://github.com/Vanitha-SM/EXNO2DS/assets/119557985/cc1261e3-4a01-48a4-a08d-ddac63b1f660)
+![image](https://github.com/Harinimuthu17/EXNO2DS/assets/130278614/bcd25165-1d45-427e-bbbd-a8d1a3d02565)
+
+![image](https://github.com/Harinimuthu17/EXNO2DS/assets/130278614/d581af23-bd90-45af-9ddb-992b18d9f450)
 
 
 # RESULT
